@@ -357,7 +357,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/wat-te-doen-in-barichara-colombia-featured1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -395,7 +395,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/a19eb94c85967b7bc07e623c471a6034-3.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -704,7 +704,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mg-9715.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -723,7 +723,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hicasua-hotel-boutique-y-centro-de-convenciones-barichara-hotel-indoor-area-779441.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
