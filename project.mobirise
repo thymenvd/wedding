@@ -391,7 +391,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "maybe some of the dutch people will recognise this from episode of 'Wie is de Mol?'",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=zCXH9nW_zyA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch here</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://wieisdemol.avrotros.nl/afleveringen/item/wie-is-de-mol-aflevering-6-2019-09-02-2019/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch in Dutch</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://youtu.be/zCXH9nW_zyA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch here</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://wieisdemol.avrotros.nl/afleveringen/item/wie-is-de-mol-aflevering-6-2019-09-02-2019/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch in Dutch</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/a19eb94c85967b7bc07e623c471a6034-3.jpeg",
