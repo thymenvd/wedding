@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
     "siteFonts": [],
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/57138-200.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
