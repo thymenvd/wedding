@@ -966,7 +966,7 @@ section.lazy-placeholder:after {
 .cid-rYLLUXZskB {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #465052;
 }
 .cid-rYLLUXZskB .line {
   background-color: #ffffff;
@@ -1265,7 +1265,7 @@ section.lazy-placeholder:after {
 .cid-rYMcunbxGY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mg-9715.jpg");
 }
 .cid-rYMcunbxGY .mbr-section-subtitle {
   color: #767676;
@@ -1375,20 +1375,44 @@ section.lazy-placeholder:after {
 .cid-rYIpe50LCD H2 {
   text-align: center;
 }
-.cid-rYIpkg0Z0t {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-rYIpkg0Z0t .google-map {
-  height: 25rem;
+.cid-rYN3nFwzoF .main_wrapper {
   position: relative;
+  height: 60rem;
+  width: 100%;
+  background-color: #c0c0c0;
 }
-.cid-rYIpkg0Z0t .google-map iframe {
+.cid-rYN3nFwzoF .main_wrapper .b_wrapper {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 2;
+  pointer-events: none;
+}
+.cid-rYN3nFwzoF .main_wrapper .b_wrapper .block {
+  height: 300px;
+  background-color: #ffffff;
+  pointer-events: fill;
+}
+.cid-rYN3nFwzoF .main_wrapper .b_wrapper .block .block_wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+.cid-rYN3nFwzoF .google-map {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+.cid-rYN3nFwzoF .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-rYIpkg0Z0t .google-map [data-state-details] {
+.cid-rYN3nFwzoF .google-map [data-state-details] {
   color: #6b6763;
   font-family: Montserrat;
   height: 1.5em;
@@ -1400,11 +1424,24 @@ section.lazy-placeholder:after {
   top: 50%;
   width: 100%;
 }
-.cid-rYIpkg0Z0t .google-map[data-state] {
+.cid-rYN3nFwzoF .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-rYIpkg0Z0t .google-map[data-state="loading"] [data-state-details] {
+.cid-rYN3nFwzoF .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+@media (max-width: 767px) {
+  .cid-rYN3nFwzoF .main_wrapper .b_wrapper {
+    display: block;
+    height: unset;
+  }
+  .cid-rYN3nFwzoF .google-map {
+    position: relative;
+  }
+  .cid-rYN3nFwzoF .container {
+    max-width: 100%;
+    padding: 0;
+  }
 }
 .cid-rYMFI5JrC5 {
   padding-top: 120px;
