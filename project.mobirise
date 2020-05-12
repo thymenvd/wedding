@@ -378,7 +378,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "10 hours north of Bogotá the village of Barichara is a cute village<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">More</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Travel info</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">More</a> ",
                 "overlayOpacity": "0.2"
               },
               {
@@ -725,7 +725,7 @@
                 "textTitle": "Gorgeous canyon",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "Overlooking the valley of Chichamoya, the ceremony will be breathtaking",
+                "text": "Overlooking the valley of Chichamoya",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Travel advice</a> "
               },
               {
